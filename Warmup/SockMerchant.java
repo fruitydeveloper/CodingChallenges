@@ -29,7 +29,6 @@ public class Solution {
         }
 
         return pairs;
-
     }
 
     private static final Scanner scanner = new Scanner(System.in);

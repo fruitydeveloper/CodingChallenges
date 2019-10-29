@@ -18,7 +18,7 @@ public class Solution {
             if(n - i <= 1) {
                 break;
             }
-            if(c[i]==1){
+            if(c[i]==1) {
                 i--;
             }
         }
